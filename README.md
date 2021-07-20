@@ -14,7 +14,7 @@ This is an modile website for a diary platform in which people can share diary a
 
 ## Entity Relationship Diagram (ERD)
 
-<img width="537" alt="erd" src="https://user-images.githubusercontent.com/54254402/116669987-31e52e80-a9da-11eb-8c81-e5d174b212d9.png">
+<img width="537" alt="erd" src="https://ohhyeonn.github.io/ohhyeonn/oneul-ERD.png">
 
 
 ## 실행 및 URL
