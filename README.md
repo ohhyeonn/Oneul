@@ -1,4 +1,4 @@
-> You can run this application!! with mvnw!! (but need jdk8)
+> You can run this application with mvnw!!
 
 # 👋Oneul
 newlecture project2
