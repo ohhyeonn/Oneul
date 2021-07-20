@@ -1,8 +1,8 @@
 > You can run this application with mvnw!!
 
 # 👋Oneul
-newlecture project2
-This is an modile website for a diary platform in which people can share diary and communicate with others
+Newlecture team project.
+This is a modile website for a diary platform in which people can share diary and communicate with others
 
 ## 🌟using stack
 - Spring boot 
