@@ -21,7 +21,7 @@ This is an modile website for a diary platform in which people can share diary a
 
 ## 실행 및 URL
 
-### CMD 실행 또는 STS 실행
+### CMD로실행 또는 STS로실행
 
 * cmd 이용
 ```cmd
