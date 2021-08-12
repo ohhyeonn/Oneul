@@ -54,7 +54,6 @@ This is a modile website for a diary platform in which people can share diary an
 - Mybatis를 활용하고 Xml을 직접 작성하여 Framework의 기능을 좀 더 세분화 하였습니다.
 - RestApi를 구현하여 웹상에서 비동기를 활용한 데이터 모델을 구현하였습니다. 
 - Jsp를 선택하지 않고 Thymeleaf를 선택하여 좀더 Spring boot에 맞는 Template기반의 View를 구현 하였습니다.
-- 자세한 내용은 Github을 참고해 주세요.
 
 ## Entity Relationship Diagram (ERD)
 
