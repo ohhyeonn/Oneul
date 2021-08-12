@@ -41,19 +41,20 @@ This is a modile website for a diary platform in which people can share diary an
 - MySql로 데이터 관리, MyBatis에서 DB와 object mapping
 - Linux를통한 데이터 베이스 server 구현
 
-**References**
-- [기능상세설명서](https://docs.google.com/document/d/1zgSTGTxDVcRstSBKEhH7lA1RoxEAf-CM/edit?usp=sharing&ouid=111269475831579487274&rtpof=true&sd=true)
-- [UseCase](https://docs.google.com/presentation/d/1l4LwXA_vd7xjrjfD6gNz3t8WMzE-CEid-ed3t1UhNXI/edit?usp=sharing)
-- [Wireframe](https://docs.google.com/presentation/d/12YMREEBBJfBQFBjj6exUoRr_b-T8BZ9BTqSxpWRX7f0/edit?usp=sharing)
-- [DB설계 (ERD)](https://docs.google.com/presentation/d/1A9wLIgtR2b00UO2CTQh06xQIWRgXjWTzOSNeeJXdpuI/edit?usp=sharing)
-- [칸반보드](https://trello.com/b/GRiS3XmE/oneul-project)
-
 **notice**
 - Spring boot를 사용하여 생상성과 효율성을 최대한으로 활용하고자 하였습니다.
 - Spring MVC를 활용하여 각 기능에 대한 분업의  효율성을 높였습니다.
 - Mybatis를 활용하고 Xml을 직접 작성하여 Framework의 기능을 좀 더 세분화 하였습니다.
 - RestApi를 구현하여 웹상에서 비동기를 활용한 데이터 모델을 구현하였습니다. 
 - Jsp를 선택하지 않고 Thymeleaf를 선택하여 좀더 Spring boot에 맞는 Template기반의 View를 구현 하였습니다.
+
+
+**References**
+- [기능상세설명서](https://docs.google.com/document/d/1zgSTGTxDVcRstSBKEhH7lA1RoxEAf-CM/edit?usp=sharing&ouid=111269475831579487274&rtpof=true&sd=true)
+- [UseCase](https://docs.google.com/presentation/d/1l4LwXA_vd7xjrjfD6gNz3t8WMzE-CEid-ed3t1UhNXI/edit?usp=sharing)
+- [Wireframe](https://docs.google.com/presentation/d/12YMREEBBJfBQFBjj6exUoRr_b-T8BZ9BTqSxpWRX7f0/edit?usp=sharing)
+- [DB설계 (ERD)](https://docs.google.com/presentation/d/1A9wLIgtR2b00UO2CTQh06xQIWRgXjWTzOSNeeJXdpuI/edit?usp=sharing)
+- [칸반보드](https://trello.com/b/GRiS3XmE/oneul-project)
 
 ## Entity Relationship Diagram (ERD)
 
